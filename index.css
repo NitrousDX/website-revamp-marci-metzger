@@ -429,8 +429,6 @@ img {
     grid-template-columns: 1fr auto;
 }
 
-.footer-wrapper {}
-
 /* === MEDIA === */
 
 @media (max-width: 1024px) {
