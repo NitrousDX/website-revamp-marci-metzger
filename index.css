@@ -501,7 +501,6 @@ img {
     }
 
     .hero-svg-wrapper {
-        /* switch to a stacked, centered layout on narrow viewports */
         position: relative;
         top: auto;
         left: auto;
@@ -603,7 +602,6 @@ img {
         display: none;
     }
 
-    /* Contact section responsive tweaks */
     .contact {
         padding: 0rem 1rem 0rem 1rem;
         margin-top: 2.5rem;
@@ -725,7 +723,6 @@ img {
         font-size: 0.95rem;
     }
 
-    /* tighter contact layout for small phones */
     .contact {
         padding: 0 0.75rem;
         margin-top: 1.5rem;
